@@ -6,3 +6,4 @@ let seconds =  Math.floor(turns*3600/turnsSpeed);
 let result = {turns,seconds}
 return result
 };
+//what
